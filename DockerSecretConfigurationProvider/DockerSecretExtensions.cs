@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace AzureServicebusExporter.Configuration
+namespace DockerSecretConfigurationProvider
 {
     public static class DockerSecretExtensions
     {
